@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&weight=700&size=26&duration=2500&pause=800&random=false&width=435&lines=;I'm+Trushna+Khedkar" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Fire&weight=700&size=26&duration=2500&pause=800&random=false&width=435&lines=;I'm+Trushna+Khedkar" />
 </h1>
 
 <h3 align="center">A passionate software developer from India</h3>
@@ -17,7 +17,7 @@
  
  🌱 I’m currently learning *Java Full stack*
 
-💬 Ask me about *java, CSS ... or anything [here]()*
+💬 Ask me about *java, CSS or anything [here]()*
 
 ⚡ Ready to work  ----> *Check my Resume [here]()*
 
